@@ -1,4 +1,4 @@
-local Victim='Player name here'
+local Victim=Saturnsverl
 local A=Instance.new'Animation'
 A.AnimationId='rbxassetid://148840371'
 local P=game:GetService'Players'.LocalPlayer
